@@ -10,3 +10,4 @@ random.shuffle(lst)
 data = pd.DataFrame({'whoAmI':lst})
 data.head()
 ```
+Решение в файле main.py
